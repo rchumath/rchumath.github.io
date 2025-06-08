@@ -36,9 +36,11 @@
         {% endif %}
 
         {% if post.collection == 'publications' %}
-        {% unless post.category == "thesis" %}
+        {% if post.category == "thesis" %}
+        <p><strong><i>Doctoral Thesis, UCLA, 2025</i></strong></p>
+        {% else %}
         <p>Published in <strong><i>{{ post.venue }}</i></strong>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
-        {% endunless %}
+        {% endif %}
         {% elsif post.collection == 'teaching' %}
         <p>{{ post.type }}, <strong><i>{{ post.venue }}</i></strong>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
         {% elsif post.date %}
@@ -62,5 +64,3 @@
         {% endif %}
     </article>
 </div>
-
-
