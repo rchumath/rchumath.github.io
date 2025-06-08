@@ -13,12 +13,6 @@ I received my Ph.D. in Mathematics from the University of California, Los Angele
 
 ---
 
-## Research Interests
-
-Partial Differential Equations · Stochastic Analysis · Optimal Transport · Numerical Analysis
-
----
-
 ## Selected Honors and Awards
 
 - **Pacific Journal of Mathematics Dissertation Award**, Pacific Journal of Mathematics (2025)  
