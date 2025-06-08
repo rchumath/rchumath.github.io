@@ -19,7 +19,7 @@ Partial Differential Equations · Stochastic Analysis · Optimal Transport · Nu
 
 ---
 
-## Selected Recognitions
+## Selected Honors and Awards
 
 - **Pacific Journal of Mathematics Dissertation Award**, Pacific Journal of Mathematics (2025)  
 - **Dissertation Year Fellowship**, UCLA (2024)  
