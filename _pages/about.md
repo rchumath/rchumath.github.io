@@ -7,7 +7,7 @@ permalink: /
 
 ## Biography
 
-I am an NSF RTG Postdoctoral Researcher in the Department of Mathematical Sciences at Carnegie Mellon University, starting in August 2025. 
+I am an NSF RTG Postdoctoral Researcher in the Department of Mathematical Sciences at Carnegie Mellon University.
 
 I received my Ph.D. in Mathematics from the University of California, Los Angeles (UCLA) in 2025, where I was advised by [Professor Inwon Kim](https://www.math.ucla.edu/~ikim/).
 
