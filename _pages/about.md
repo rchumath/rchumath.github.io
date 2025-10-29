@@ -7,7 +7,7 @@ permalink: /
 
 ## Biography
 
-I am an NSF RTG Postdoctoral Researcher in the Department of Mathematical Sciences at Carnegie Mellon University, where I am mentored by [Professor Mykhaylo Shkolnikov](https://www.math.cmu.edu/~mshkolni/), [Professor Sergey Nadtochiy](https://sites.google.com/view/sergey-nadtochiy), and [Professor Dejan Slepčev](https://www.cmu.edu/math/people/faculty/slepcev.html)
+I am an NSF RTG Postdoctoral Researcher in the Department of Mathematical Sciences at Carnegie Mellon University.
 
 I received my Ph.D. in Mathematics from the University of California, Los Angeles (UCLA) in 2025, where I was advised by [Professor Inwon Kim](https://www.math.ucla.edu/~ikim/).
 
