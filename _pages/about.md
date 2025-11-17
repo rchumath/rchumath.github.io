@@ -18,6 +18,7 @@ My research explores the interface between probability theory, partial different
 - Free boundary problems and phase transition models  
 - Probabilistic representations of nonlinear PDEs  
 - Development and analysis of numerical schemes for nonlinear PDEs and optimal transport
+- Machine Learning and Sampling
 
 ## Selected Honors and Awards
 
