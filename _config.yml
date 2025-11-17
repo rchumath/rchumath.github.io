@@ -27,14 +27,16 @@ author:
 
 # Publication Categories
 publication_category:
-  books:
-    title: 'Books'
+  preprints:
+    title: 'Preprints'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
   thesis:
     title: 'Thesis'
+  books:
+    title: 'Books'
 
 
 # Site Settings
