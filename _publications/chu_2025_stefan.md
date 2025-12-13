@@ -8,4 +8,5 @@ authors: "Inwon Kim and Sebastian Munoz"
 arxiv: https://arxiv.org/abs/2512.10138
 external_url: https://arxiv.org/abs/2512.10138
 paperurl: https://arxiv.org/abs/2512.10138
+teaser: /assets/sigma.png
 ---
