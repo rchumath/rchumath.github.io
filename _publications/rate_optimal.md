@@ -4,7 +4,7 @@ collection: publications
 category: preprints
 permalink: /publication/rate-optimal-noise-annealing-neural-ot/
 date: 2026-02-04
-authors: "Raymond Chu, Jaewoong Choi, Dohyun Kwon"
+authors: "Jaewoong Choi, Dohyun Kwon"
 arxiv: https://arxiv.org/abs/2602.04110
 external_url: https://arxiv.org/abs/2602.04110
 paperurl: https://arxiv.org/abs/2602.04110
