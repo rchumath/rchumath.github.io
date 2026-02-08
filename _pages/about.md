@@ -13,7 +13,7 @@ I received my Ph.D. in Mathematics from the University of California, Los Angele
 
 ## Research Interests
 
-My research explores the interface between probability theory, partial differential equations, optimal transport, machine learning, and generative modeling.
+My research interess include: probability theory, partial differential equations, optimal transport, machine learning, generative modeling, and numerical methods.
 
 ## Selected Honors and Awards
 
