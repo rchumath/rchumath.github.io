@@ -7,17 +7,15 @@ permalink: /
 
 ## Biography
 
-*This website is maintained as an archive of my academic research, teaching, and professional activities.*
-
 I am a mathematician working as a Quantitative Researcher at [Susquehanna International Group](https://sig.com/).
 
 Prior to that, I was an NSF RTG Postdoctoral Researcher in the Department of Mathematical Sciences at Carnegie Mellon University.
 
 I received my Ph.D. in Mathematics from the University of California, Los Angeles (UCLA) in 2025, where I was advised by [Professor Inwon Kim](https://www.math.ucla.edu/~ikim/).
 
-## Research Interests
+## Research
 
-My research interests include probability theory, partial differential equations, optimal transport, machine learning, and numerical methods.
+My doctoral and postdoctoral research focused on probability theory, partial differential equations, optimal transport, machine learning, and numerical methods.
 
 ## Selected Honors and Awards
 
