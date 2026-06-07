@@ -6,20 +6,20 @@ site_theme               : "default"
 title                    : "Raymond Chu"
 title_separator          : "-"
 name                     : &name "Raymond Chu"
-description              : &description "Postdoctoral Associate at CMU"
+description              : &description ""
 url                      : "https://rchumath.github.io"
 baseurl                  : "" 
 repository               : "rchumath/rchumath.github.io"
 
 # Site Author - Sidebar Info
 author:
-  avatar           : "profile.png"
+  avatar           : ""
   name             : "Raymond Chu"
-  bio              : "Postdoctoral Associate at Carnegie Mellon University"
-  location         : "Pittsburgh, PA"
-  employer         : "CMU"
+  bio              : ""
+  location         : ""
+  employer         : ""
   uri              : 
-  email            : "raymondchu@cmu.edu"  # Displayed as plain text, not a mailto link
+  email            : ""  # Displayed as plain text, not a mailto link
 
 
   # Academic websites
